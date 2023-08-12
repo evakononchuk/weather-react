@@ -1,5 +1,9 @@
 import React from "react";
 
 export default function Weather() {
-    return;
+    return (
+        <p>
+            Hello World
+        </p>
+    );
 }
