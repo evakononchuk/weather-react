@@ -40,6 +40,7 @@ a:hover {
 .celsius {
   padding: 6px 0 0 6px;
 }
+
 .day {
   line-height: 20px;
   font-size: 16px;
@@ -81,17 +82,7 @@ li:first-letter {
 .search {
   flex: 1 1 200px;
 }
-.card-body {
-  position: relative;
-}
 
 .footer {
   color: white;
-}
-
-#backspace {
-  position: absolute;
-  top: 10px;
-  right: 150px;
-  width: 20px;
 }
