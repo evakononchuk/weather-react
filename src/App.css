@@ -85,6 +85,10 @@ li:first-letter {
   position: relative;
 }
 
+.footer {
+  color: white;
+}
+
 #backspace {
   position: absolute;
   top: 10px;

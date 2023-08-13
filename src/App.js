@@ -1,18 +1,13 @@
 import './App.css';
+import Footer from './Footer';
 import Weather from './Weather';
 
 function App() {
   return (
-    <div className="App">
-      <div class="container">
-      <div class="weather-app">
-        <div class="card-body">
-       
+      <div className="container">
         <Weather />
-        </div>
-        </div>
-        </div>
-    </div>
+        <Footer />
+      </div>
   );
 }
 
