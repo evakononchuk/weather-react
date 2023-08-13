@@ -23,7 +23,6 @@ export default function Form() {
               </div>
             </div>
           </form>
-          <input src="./backspace.svg" type="image" id="backspace" alt='backspace' />
           </div>
     )
 }
