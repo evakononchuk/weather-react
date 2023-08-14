@@ -1,5 +1,6 @@
 import React from "react";
 import Form from "./Form";
+import Forecast from './Forecast';
 
 export default function Weather() {
     return (
@@ -39,6 +40,8 @@ export default function Weather() {
             </div>
           </div>
         </div>
+
+        <Forecast />
       </div>
 
     );
