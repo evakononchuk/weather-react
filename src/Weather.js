@@ -43,6 +43,5 @@ export default function Weather() {
 
         <Forecast />
       </div>
-
     );
 }
